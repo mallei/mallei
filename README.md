@@ -1,10 +1,3 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&color=9ECE6A&width=435&lines=Hi%2C+I'm+mallei)](https://git.io/typing-svg)
 
-```console
-mallei@void:~$ whoami
-hi, im mallei 🦇.
-
-♦ i just like coding.
-♦ living in poland.
-♦ 19 years old
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallei&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
